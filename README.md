@@ -1,4 +1,4 @@
-# Screenshot for app
+# Screenshot from app
 
 ![example3](https://user-images.githubusercontent.com/56736931/171398194-58dd1f74-d991-4f59-ae18-e100fd6cd0a4.png)
 ![example1](https://user-images.githubusercontent.com/56736931/171398677-2307eca3-cc79-461a-b65b-737221dd8eff.png)
