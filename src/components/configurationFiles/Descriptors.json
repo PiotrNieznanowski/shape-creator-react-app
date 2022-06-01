@@ -1,0 +1,109 @@
+{
+	"SHAPE": [
+		{
+			"name": "Cube",
+			"description": "",
+			"type": "shape",
+			"icon": {
+				"prefix": "fas",
+				"name": "dice-d6"
+			},
+			"option": {
+				"type": "cube",
+				"width": 250,
+				"height": 250,
+				
+				"name": "New shape"
+			}
+		},
+		{
+			"name": "Triangle",
+			"description": "",
+			"type": "shape",
+			"icon": {
+				"prefix": "fas",
+				"name": "play",
+				"style": {
+					"transform": "rotate(270deg)"
+				}
+			},
+			"option": {
+				"type": "triangle",
+				"width": 200,
+				"height": 200,
+				"name": "New shape"
+			}
+		},
+		{
+			"name": "Rectangle",
+			"description": "",
+			"type": "shape",
+			"icon": {
+				"prefix": "fas",
+				"name": "stop"
+			},
+			"option": {
+				"type": "rect",
+				"width": 200,
+				"height": 200,
+				"name": "New shape"
+			}
+		},
+		{
+			"name": "Circle",
+			"description": "",
+			"type": "shape",
+			"icon": {
+				"prefix": "fas",
+				"name": "circle"
+			},
+			"option": {
+				"type": "circle",
+				"radius": 100,
+				"name": "New shape"
+			}
+		},
+		{
+			"name": "Polygon",
+			"description": "",
+			"type": "drawing",
+			"icon": {
+				"prefix": "fas",
+				"name": "draw-polygon"
+			},
+			"option": {
+				"type": "polygon",
+				"name": "New polygon"
+			}
+		},
+		{
+			"name": "Polyline",
+			"description": "",
+			"type": "drawing",
+			"icon": {
+				"prefix": "fas",
+				"name": "pencil-ruler"
+			},
+			"option": {
+				"type": "polyline",
+				"name": "New polyline"
+			}
+		},
+		{
+			"name": "SVG",
+			"description": "",
+			"type": "default",
+			"icon": {
+				"prefix": "fas",
+				"name": "file-import"
+			},
+			"option": {
+				"type": "svg",
+				"superType": "svg",
+				"name": "New SVG",
+				"loadType": "svg"
+			}
+		}
+
+	]
+}
